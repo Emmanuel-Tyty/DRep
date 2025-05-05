@@ -1,0 +1,25 @@
+{
+  "name": "Crysent",
+  "ticker": "CRYS",
+  "description": "Crysent is a Cardano-based decentralized representative focused on financial access, transparency, and on-chain governance innovation.",
+  "homepage": "https://crysent.io",
+  "logo": "https://crysent.io/assets/logo.png",
+  "media": [
+    {
+      "type": "twitter",
+      "url": "https://twitter.com/crysent_io"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/crysent"
+    }
+  ],
+  "contact": {
+    "email": "support@crysent.io",
+    "telegram": "https://t.me/crysent"
+  },
+  "delegators": {
+    "type": "guiding-principles",
+    "text": "We prioritize transparency, frequent reporting, and community-driven voting decisions."
+  }
+}
