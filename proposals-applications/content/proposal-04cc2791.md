@@ -5,3 +5,5 @@
 **Solution**
 
 10-month program training 2,000 Nigerian SMEs through 6 workshops & 4 masterclasses. Participants adopt Cardano powered digital business tools, driving real business utility and sustainable adoption.
+
+Now
